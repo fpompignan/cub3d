@@ -1,0 +1,15 @@
+NO ./textures/purplestone.xpm
+SO ./textures/purplestone.xpm
+WE ./textures/wall.xpm
+EA ./textures/greystone.xpm
+
+F 220,100,0
+C 98,190,45
+
+111111
+100W01
+101101
+101101
+101101
+100001
+111111
